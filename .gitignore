@@ -1,0 +1,6 @@
+pullweight
+pullweight.exe
+*.o
+*.obj
+*.exe
+*.out
